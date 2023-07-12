@@ -1,0 +1,30 @@
+내 git : peterjay7  g********#2!2
+https://github.com/carami/koscom_spring
+https://gist.github.com/carami/4382ac13317d45f953199167d4554bed
+https://drive.google.com/drive/folders/1FaGiIsaBhN9KAF5_sSVHp4H8AXMrcouA
+  => 프로그램이 있음. (jdk, VScode, Git 3개 설치)
+         jdk-11.0.16.1_windows-x64_bin.exe
+         VSCodeUserSetup-x64-1.78.2.exe
+         Git-2.38.0-64-bit.exe
+===================================
+PC 환경세팅
+
+jdk  설치 후 환경변수 설정
+환경변수 => 시스템변수 추가
+  JAVA_HOME
+  C:\Program Files\Java\jdk-11.0.16.1
+path 추가
+  %JAVA_HOME%\bin
+
+vscode 설치
+git 설치
+===================================
+java => Extention Pack for Java  설치
+spring boot => Spring Boot Extention Pack  설치
+
+=================
+vscode 초기화
+C:\users\KOSCOM 아래
+    .vscode 삭제 
+  \AppData\Roaming  아래
+    code 삭제
